@@ -1,0 +1,18 @@
+Consumer Key (API Key)	eAL497dT5hjs2bHLh1mRoR3cj
+Consumer Secret (API Secret)	HUuqoidPWbT04QPpZfFHwpqvLvq6IxOU1kOa2eRRZf8Rh5XmtE
+Access Level	Read and write (modify app permissions)
+Owner	akokaz1
+Owner ID	775365291555651584
+
+
+
+
+
+
+
+
+Access Token	775365291555651584-hhpeCLC8VY2ccOoeWxXge6cWbamKhBG
+Access Token Secret	zzlkNqY4eaxCZ738GXhcTPmQf2L9RkO6uZot93a2ZJoF7
+Access Level	Read and write
+Owner	akokaz1
+Owner ID	775365291555651584

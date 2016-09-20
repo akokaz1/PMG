@@ -1,0 +1,7 @@
+http://datapoint.metoffice.gov.uk/public/data/val/wxfcs/all/xml/sitelist?key=    #met office location data
+
+
+http://datapoint.metoffice.gov.uk/public/data/val/wxfcs/all/json/all?res=3hourly&key=63018292-cdfc-464a-a34a-739c52441232     #3 hour forecast for all
+
+
+http://datapoint.metoffice.gov.uk/public/data/val/wxfcs/all/json/all?res=daily&key=63018292-cdfc-464a-a34a-739c52441232&issuetime=2012-11-19T15Z     #daily forecast by date
