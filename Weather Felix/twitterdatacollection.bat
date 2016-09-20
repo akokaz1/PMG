@@ -1,0 +1,1 @@
+python "C:\Users\student10\PycharmProjects\untitled\twitter-stream.py"
