@@ -9,9 +9,10 @@ class MyStreamer(TwythonStreamer):
     def on_success(self, data):
         if data ['lang'] == 'en':
             tweeter.append(data)
+            tweets.insert(data)
             print 'recieved tweet #', len(tweeter)
 
-        if len(tweeter)>= 3:
+        if len(tweeter)>= 3000:
             self.disconnect()
     def on_error(self,status_code, data):
         print status_code, data
@@ -83,6 +84,6 @@ stream.statuses.filter(track='london avalanche\
 ,london wind\
 ,london winter')
 
-tweets.insert_many(tweeter)
+#tweets.insert_many(tweeter)
 
 

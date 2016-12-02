@@ -1,9 +1,9 @@
 Hot = {balmy, heat, heatwave, humid,  humidity, tropical, warm}
 Cold = {avalanche, black ice, blizzard, cold, condensation, freeze, freezeing, frost, ice, icicle, permafrost, slush, snow, snowstorm, thaw}
-Wet = {condensation, dew, downburst, downpour, drizzle, flood, hail, hurricane, lightning, rain, rainbands, rainbow, sleet, slush, snow, snowstorm, storm, thunder, thunderstorm}
+Rain = {condensation, dew, downburst, downpour, drizzle, flood, hail, hurricane, lightning, rain, rainbands, rainbow, sleet, slush, snow, snowstorm, storm, thunder, thunderstorm}
 Dry = {drought, dry}
 Cloudy = {cloud, cloudy, overcast, storm}
-Clear = {rainbow}
+Clear sky = {rainbow}
 Windy = {blustery, breeze, gale, gust, gustnado, hurricane, wind}
 Foggy = {fog, haze, mist, muggy, sandstorm, smog}
-General = {forecast, summer, sunrise, sunset, temperature, visibility, weather, winter}
+General : {[forecast, summer, sunrise, sunset, temperature, visibility, weather, winter]}
